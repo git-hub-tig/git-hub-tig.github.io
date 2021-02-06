@@ -1,1 +1,2 @@
-/home/wqs/sites/myBlog/html/robots.txt
+User-agent: *
+Sitemap: sitemap.xml
