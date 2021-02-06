@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>tag-6 on Jane - A super concise theme for Hugo</title>
+    <title>tag-6 on Logical Influx</title>
     <link>/tags/tag-6/</link>
-    <description>Recent content in tag-6 on Jane - A super concise theme for Hugo</description>
+    <description>Recent content in tag-6 on Logical Influx</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
+    <copyright>Logical Carson</copyright>
     <lastBuildDate>Mon, 04 Mar 2019 16:01:23 +0800</lastBuildDate><atom:link href="/tags/tag-6/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Jane 主题预览</title>
@@ -55,7 +56,7 @@
       <pubDate>Sat, 03 Mar 2018 16:01:23 +0800</pubDate>
       
       <guid>/post/shortcode-notice/</guid>
-      <description>normal use Note example: {{% notice note %}} A notice disclaimer {{% /notice %}} Result: You could custom title : {{% notice note 笔记 %}} A notice disclaimer {{% /notice %}} tip {{% notice tip %}} A tip disclaimer {{% /tip %}} info {{% notice info %}} A info disclaimer {{% /notice %}} warning {{% notice warning %}} A warning disclaimer {{% /notice %}}</description>
+      <description>normal use Note example: 1 2 3 {{% notice note %}} A notice disclaimer {{% /notice %}} Result: note A notice disclaimer You could custom title : 1 2 3 {{% notice note 笔记 %}} A notice disclaimer {{% /notice %}} 笔记 A notice disclaimer tip 1 2 3 {{% notice tip %}} A tip disclaimer {{% /tip %}} tip A tip disclaimer info 1 2 3 {{%</description>
     </item>
     
   </channel>
