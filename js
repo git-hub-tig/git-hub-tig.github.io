@@ -1,0 +1,1 @@
+/home/wqs/sites/myBlog/html/js
