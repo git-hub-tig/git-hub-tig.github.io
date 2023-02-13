@@ -2,13 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jane - A super concise theme for Hugo</title>
-    <link>http://git-hub-tig.github.io/</link>
+    <link>https://git-hub-tig.github.io/</link>
     <description>Recent content on Jane - A super concise theme for Hugo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
+    <lastBuildDate>Mon, 13 Feb 2023 21:36:18 +0800</lastBuildDate>
     
-        <atom:link href="http://git-hub-tig.github.io/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://git-hub-tig.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Resume</title>
+      <link>https://git-hub-tig.github.io/post/resume/</link>
+      <pubDate>Mon, 13 Feb 2023 21:36:18 +0800</pubDate>
+      
+      <guid>https://git-hub-tig.github.io/post/resume/</guid>
+      
+        <description>&lt;h3 id=&#34;please-visit-my-linkedin-profilehttpswwwlinkedincomincarson-wang&#34;&gt;Please visit my &lt;a href=&#34;https://www.linkedin.com/in/carson-wang/&#34;&gt;LinkedIn profile&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&#34;https://git-hub-tig.github.io/resume.png&#34; alt=&#34;Alt text&#34;&gt;&lt;/p&gt;
+</description>
+      
+    </item>
     
   </channel>
 </rss>

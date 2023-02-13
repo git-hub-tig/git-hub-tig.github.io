@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: http://git-hub-tig.github.io/sitemap.xml
+Sitemap: https://git-hub-tig.github.io/sitemap.xml
