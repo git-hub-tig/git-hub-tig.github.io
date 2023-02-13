@@ -1,20 +1,20 @@
-<?xml-stylesheet type="text/xsl" href="https://git-hub-tig.github.io/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="http://git-hub-tig.github.io/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://git-hub-tig.github.io/categories/</loc>
+    <loc>http://git-hub-tig.github.io/categories/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://git-hub-tig.github.io/</loc>
+    <loc>http://git-hub-tig.github.io/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://git-hub-tig.github.io/tags/</loc>
+    <loc>http://git-hub-tig.github.io/tags/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
