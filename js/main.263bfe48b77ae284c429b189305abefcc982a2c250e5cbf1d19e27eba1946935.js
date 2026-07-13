@@ -1,5 +1,5 @@
 (() => {
-  // ns-hugo-imp:/home/runner/work/pages_hugo_website/pages_hugo_website/themes/jane/assets/js/initMobileNavbar.js
+  // ns-hugo-imp:/Users/wqs/wqs/pages_hugo_website/themes/jane/assets/js/initMobileNavbar.js
   var initMobileNavbar = () => {
     const $mobileNav = $("#mobile-navbar");
     const $mobileNavIcon = $(".mobile-navbar-icon");
@@ -40,7 +40,7 @@
   };
   var initMobileNavbar_default = initMobileNavbar;
 
-  // ns-hugo-imp:/home/runner/work/pages_hugo_website/pages_hugo_website/themes/jane/assets/js/initToc.js
+  // ns-hugo-imp:/Users/wqs/wqs/pages_hugo_website/themes/jane/assets/js/initToc.js
   function createTocObserver() {
     const headings = document.querySelectorAll("article h1[id], article h2[id], article h3[id], article h4[id], article h5[id], article h6[id]");
     const setCurrentActive = () => {
@@ -80,7 +80,7 @@
   };
   var initToc_default = initToc;
 
-  // ns-hugo-imp:/home/runner/work/pages_hugo_website/pages_hugo_website/themes/jane/assets/js/initHeaderAnchor
+  // ns-hugo-imp:/Users/wqs/wqs/pages_hugo_website/themes/jane/assets/js/initHeaderAnchor
   var anchorForId = (id) => {
     var anchor = document.createElement("a");
     anchor.className = "header-link";
