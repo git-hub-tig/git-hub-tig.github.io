@@ -1,0 +1,23 @@
+/* Make post page wider on desktop */
+.post {
+  width: 100%;
+  max-width: 65em; /* Increased from default 38em */
+}
+
+/* Responsive PDF viewer */
+.pdf-viewer {
+  width: 100%;
+  height: 1100px; /* Default desktop height */
+}
+
+/* Mobile optimizations */
+@media screen and (max-width: 800px) {
+  .post {
+    width: 100%;
+    padding: 1.5rem 1rem !important; /* Reduce padding on mobile */
+    margin: 0;
+  }
+  .pdf-viewer {
+    height: 80vh; /* Better fit for mobile screens */
+  }
+}
