@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://git-hub-tig.github.io/sitemap.xml
+Sitemap: https://resume.minzhi.online/sitemap.xml
